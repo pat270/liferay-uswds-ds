@@ -1,8 +1,8 @@
-.gradle/
-build/
-dist/
-node_modules/
-bundles/
-.idea/
-*.iml
 .DS_Store
+/.idea
+/bundles
+bin
+build
+dist
+node_modules
+node_modules_cache
